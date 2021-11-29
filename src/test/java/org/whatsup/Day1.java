@@ -24,7 +24,8 @@ public class Day1 {
 		String stringCellValue = cell.getStringCellValue();
 		System.out.println(stringCellValue);
 		
-		
+		System.out.println("Test of Git");
+		System.out.println("Test of Git");
 	
 		
 		for (int i = 0; i < sheet.getPhysicalNumberOfRows(); i++) {
@@ -60,5 +61,4 @@ public class Day1 {
 			
 		}
 		
-
 }}
